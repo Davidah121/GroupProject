@@ -1,0 +1,6 @@
+So now, There are explosion effects and Sounds.
+Not completely finished.
+
+There are 7 songs and as the player does better, the music should change accordingly.
+Each song is the same length.
+None of that has been implemented. That will come later.

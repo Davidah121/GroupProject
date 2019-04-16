@@ -1,0 +1,3 @@
+set CLASSPATH=./;
+set PATH=Path;..\java\bin\;..\Notepadd\Notepad++
+cd GroupProject
